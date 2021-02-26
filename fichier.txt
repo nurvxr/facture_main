@@ -1,0 +1,22 @@
+--------------------------------------
+               Facture               
+--------------------------------------
+Nom et prenom : Amel Dorgham
+Numero de telephone : 25690840
+Code : 86532465
+--------------------------------------
+Produit : WAYV - OFFICIAL LIGHT STICK
+Prix : 60
+Quantité : 2
+Montant : 120.0
+--------------------------------------
+Produit : GFRIEND - OFFICIAL LIGHT STICK
+Prix : 80
+Quantité : 4
+Montant : 320.0
+--------------------------------------
+Produit : NU'EST - OFFICIAL LIGHT STICK
+Prix : 120
+Quantité : 3
+Montant : 360.0
+--------------------------------------
